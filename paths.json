@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-one-lpb/:/",
-      "/content/citisignal-one-lpb/configuration:/.helix/config.json",
-      "/content/citisignal-one-lpb/metadata:/metadata.json",
-      "/content/citisignal-one-lpb/configs:/configs.json",
-      "/content/citisignal-one-lpb/configs-stage:/configs-stage.json",
-      "/content/citisignal-one-lpb/configs-dev:/configs-dev.json",
-      "/content/citisignal-one-lpb/redirects:/redirects.json",
-      "/content/citisignal-one-lpb/placeholders:/placeholders.json",
-      "/content/citisignal-one-lpb/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-one-lpb/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products/:/images/products/"
+      "/content/pbakliwal/citisignal-copilot-resource/:/",
+      "/content/pbakliwal/citisignal-copilot-resource/configuration:/.helix/config.json",
+      "/content/pbakliwal/citisignal-copilot-resource/metadata:/metadata.json",
+      "/content/pbakliwal/citisignal-copilot-resource/configs:/configs.json",
+      "/content/pbakliwal/citisignal-copilot-resource/configs-stage:/configs-stage.json",
+      "/content/pbakliwal/citisignal-copilot-resource/configs-dev:/configs-dev.json",
+      "/content/pbakliwal/citisignal-copilot-resource/redirects:/redirects.json",
+      "/content/pbakliwal/citisignal-copilot-resource/placeholders:/placeholders.json",
+      "/content/pbakliwal/citisignal-copilot-resource/products/recommended-products:/products/recommended-products.json",
+      "/content/pbakliwal/citisignal-copilot-resource/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/pbakliwal/citisignal-copilot-resource/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-one-lpb",
+      "/content/pbakliwal/citisignal-copilot-resource",
       "/content/dam/citisignal/images/products/"
     ]
 }
